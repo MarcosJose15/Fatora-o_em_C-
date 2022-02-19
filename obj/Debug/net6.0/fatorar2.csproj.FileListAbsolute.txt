@@ -1,0 +1,15 @@
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\fatorar2.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\fatorar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\fatorar2.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\fatorar2.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\fatorar2.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\C#\fatorar2\bin\Debug\net6.0\fatorar2.exe
+C:\Users\Marcos\Desktop\C#\fatorar2\bin\Debug\net6.0\fatorar2.deps.json
+C:\Users\Marcos\Desktop\C#\fatorar2\bin\Debug\net6.0\fatorar2.runtimeconfig.json
+C:\Users\Marcos\Desktop\C#\fatorar2\bin\Debug\net6.0\fatorar2.dll
+C:\Users\Marcos\Desktop\C#\fatorar2\bin\Debug\net6.0\ref\fatorar2.dll
+C:\Users\Marcos\Desktop\C#\fatorar2\bin\Debug\net6.0\fatorar2.pdb
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\fatorar2.dll
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\ref\fatorar2.dll
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\fatorar2.pdb
+C:\Users\Marcos\Desktop\C#\fatorar2\obj\Debug\net6.0\fatorar2.genruntimeconfig.cache
